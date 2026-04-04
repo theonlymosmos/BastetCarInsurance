@@ -48,13 +48,6 @@ bastet-car-insurance-system/
         `-- Data/
             `-- Database.cs
 ```
-
-## Screenshots
-
-### Login
-
-![Login screen](docs/screenshots/login.png)
-
 ### Dashboard
 
 ![Dashboard screen](docs/screenshots/dashboard.png)
